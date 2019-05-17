@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Полина Забелина](https://up.htmlacademy.ru/htmlcss/25/user/498397).
-* Наставник: [Владислав Молчанов] (https://htmlacademy.ru/profile/id137398).
+* Наставник: [Владислав Молчанов](https://htmlacademy.ru/profile/id137398).
 
 ---
 
